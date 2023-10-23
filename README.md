@@ -1,2 +1,2 @@
 # undercut
-An implementation of a game theory game I conceptualized
+An implementation of a game theory game I conceptualized.
